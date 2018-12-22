@@ -1,1 +1,2 @@
-# Project2
+# Stock-checker
+Checking stocks and stuff
